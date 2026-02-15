@@ -20,8 +20,8 @@ body {
   padding: 0 50px;
 }
 
-.logo-container {
-  margin-top: 4px;
+.logo {
+  vertical-align: middle;
 }
 
 .nav__link-container {
@@ -32,7 +32,7 @@ body {
   align-items: center;
 }
 
-.nav__link-container > li {
+.nav__link-container > .nav__item {
   margin: 0 10px;
   align-content: center;
 }
