@@ -37,11 +37,11 @@ body {
   align-content: center;
 }
 
-.nav__link-container > li:first-child {
+.nav__link-container > .nav__item:first-child {
   margin-left: 0;
 }
 
-.nav__link-container > li:last-child {
+.nav__link-container > .nav__item:last-child {
   margin-right: 0;
 }
 
